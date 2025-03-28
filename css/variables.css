@@ -1,0 +1,9 @@
+:root {
+  --red: #e50914;
+  --black: #141414;
+  --yellow: #fae100;
+  --orange: #fab700;
+  --lavender: rgb(91, 91, 240);
+  --orange: rgb(234, 157, 15);
+  --horizontal-space: 20px; /* 수평 여백 */
+}
