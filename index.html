@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:title" content="FlixTalk Web UI" />
+    <meta property="og:description" content="미니 웹 프론트엔드 프로젝트" />
+    <meta
+      property="og:image"
+      content="https://github.com/sduddla/flix-talk-ui/blob/gh-pages/images/thumbnail.png?raw=true"
+    />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="400" />
+    <meta property="og:url" content="https://sduddla.github.io/flix-talk-ui/" />
+    <meta property="og:type" content="website" />
+
+    <title>Flix Talk</title>
+  </head>
+  <body>
+    <!-- 로그인 화면 문구-->
+    <header class="welcome-header">
+      <h1 class="welcome-header_title">
+        <span class="welcome-header_title_flix">Flix</span>
+        <span class="welcome-header_title_talk">Talk</span>
+        <span class="welcome-header_title_text">에</span><br />
+        <span class="welcome-header_title_text2">오신 것을 환영해요!</span>
+      </h1>
+    </header>
+
+    <!-- 로그인 -->
+    <form action="html/programs.html" method="get" id="login-form">
+      <input type="text" placeholder="이메일 또는 휴대폰 번호" />
+      <input type="text" placeholder="비밀번호" />
+      <input type="submit" value="로그인" />
+      <a href="#"><em>FlixTalk</em> 계정 또는 비밀번호 찾기</a>
+    </form>
+
+    <!-- 스플래시 화면 -->
+    <div id="splash-screen">
+      <img
+        src="images/flix-talk-logo.png"
+        alt="FLIX TALK 로고"
+        class="splash-image"
+      />
+    </div>
+
+    <!-- 웹으로 볼 시, 스크린 사이즈 크다고 경고 메세지 -->
+    <div class="no-mobile">
+      <span>화면 크기를 줄여주세요.</span>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/43e594d4c5.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
