@@ -1,0 +1,35 @@
+#programs-display-link {
+  text-align: center;
+  display: block;
+  background-color: var(--red);
+  padding: 13px 0px;
+  font-size: 12px;
+  margin-bottom: 40px;
+}
+
+#programs-display-link i {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.programs-screen {
+  padding: 0px var(--horizontal-space);
+}
+
+.programs-screen-list {
+  margin-top: 30px;
+  border-top: 0.5px solid var(--red);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 13px;
+}
+
+.programs-screen-list_header {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(179, 177, 177, 0.4);
+}
+
+.programs-screen-list_header > i {
+  padding-top: 7px;
+}
