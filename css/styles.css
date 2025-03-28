@@ -1,0 +1,27 @@
+@import 'variables.css';
+@import 'reset.css';
+
+@import 'screens/login.css';
+@import 'screens/programs.css';
+@import 'screens/find.css';
+@import 'screens/chat12.css';
+
+@import 'components/screen-header.css';
+@import 'components/user-component.css';
+@import 'components/nav-bar.css';
+@import 'components/badge.css';
+@import 'components/alt-screen-header.css';
+@import 'components/no-mobile.css';
+@import 'components/splash-screen.css';
+
+body {
+  background-color: var(--black);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: calc(100vh - 57px);
+  max-height: 100%; /*화면을 줄이면 자동으로 조정*/
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
+}
