@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find</title>
+  </head>
+  <body>
+    <!-- 상단 -->
+    <header class="screen-header">
+      <h1 class="screen-header_title">탐색</h1>
+      <div class="screen-header_icons">
+        <span><i class="fa-solid fa-magnifying-glass"></i></span>
+        <span><i class="fa-solid fa-music"></i></span>
+      </div>
+    </header>
+
+    <!-- 게임, 드라마, 영화 아이콘 -->
+    <main class="main-screen">
+      <div class="find-icons">
+        <div class="find-icons_icons">
+          <i class="fa-solid fa-gamepad"></i><span>게임</span>
+        </div>
+        <div class="find-icons_icons">
+          <i class="fa-solid fa-tv"></i><span>드라마</span>
+        </div>
+        <div class="find-icons_icons">
+          <i class="fa-solid fa-film"></i><span>영화</span>
+        </div>
+      </div>
+
+      <!-- 찜한 장르들과 비슷한 프로그램들 추천 -->
+      <div class="recommended-programs">
+        <h6 class="recommended-programs_title">추천 프로그램</h6>
+        <span>찜한 콘텐츠나 시청 기록을 기반으로 추천됩니다.</span>
+      </div>
+
+      <!-- 오픈채팅방 문구-->
+      <div class="open-chat">
+        <div class="open-chat_header">
+          <h4>오픈채팅</h4>
+          <span
+            >지금 뜨는 오픈채팅 <i class="fa-solid fa-chevron-right fa-xs"></i
+          ></span>
+        </div>
+
+        <!-- 폭싹 속았수다 오픈채팅방 -->
+        <div class="open-post">
+          <div class="open-post_column">
+            <h5 class="open-post_title">폭싹 속았수다</h5>
+            <h6 class="open-post_hashtags">#아이유 #박보검 #문소리 #박해준</h6>
+            <div class="open-post_members">
+              <img src="../images/ww-profile.jpg" alt="프로필 사진" />
+              <span class="open-post_members_count">ww</span>
+              <div class="divider"></div>
+              <div class="open-post_members_status_pink">방금 대화</div>
+            </div>
+          </div>
+          <div class="open-post_column">
+            <div class="open-post_photo">
+              <img
+                src="../images/life-tangerines-poster.png"
+                alt="폭싹 속았수다 포스터"
+              />
+            </div>
+          </div>
+        </div>
+
+        <!-- 미스터션샤인 오픈채팅방 -->
+        <div class="open-post">
+          <div class="open-post_column">
+            <h5 class="open-post_title">미스터션샤인</h5>
+            <h6 class="open-post_hashtags">
+              #이병헌 #김태리 #변요한 #유연석 #김민정
+            </h6>
+            <div class="open-post_members">
+              <img src="../images/mm-profile.jpg" alt="프로필 사진" />
+              <span class="open-post_members_count">mm</span>
+              <div class="divider"></div>
+              <div class="open-post_members_status_blue">30분 전</div>
+            </div>
+          </div>
+          <div class="open-post_column">
+            <div class="open-post_photo">
+              <img
+                src="../images/mr-sunshine-poster.png"
+                alt="미스터션샤인 포스터"
+              />
+            </div>
+          </div>
+        </div>
+
+        <!-- 시그널 오픈채팅방 -->
+        <div class="open-post">
+          <div class="open-post_column">
+            <h5 class="open-post_title">시그널</h5>
+            <h6 class="open-post_hashtags">#김혜수 #조진웅 #이제훈</h6>
+            <div class="open-post_members">
+              <img src="../images/tt-profile.jpg" alt="프로필 사진" />
+              <span class="open-post_members_count">tt</span>
+              <div class="divider"></div>
+              <div class="open-post_members_status_blue">25분 전</div>
+            </div>
+          </div>
+          <div class="open-post_column">
+            <div class="open-post_photo">
+              <img src="../images/the-signal-poster.png" alt="시그널 포스터" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- 하단 -->
+    <nav class="nav">
+      <ul class="nav_list">
+        <li class="nav_btn">
+          <a class="nav_link" href="programs.html">
+            <i class="fa-regular fa-user fa-lg"></i>
+          </a>
+        </li>
+
+        <li class="nav_btn">
+          <a class="nav_link" href="chats.html">
+            <span class="nav_notification badge">2</span>
+            <i class="fa-regular fa-comment fa-lg"></i>
+          </a>
+        </li>
+
+        <li class="nav_btn">
+          <a class="nav_link" href="find.html">
+            <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+          </a>
+        </li>
+
+        <li class="nav_btn">
+          <a class="nav_link" href="more.html">
+            <span class="nav_dot"></span>
+            <i class="fa-solid fa-ellipsis fa-lg"></i>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- 웹으로 볼 시, 스크린 사이즈 크다고 경고 메세지 -->
+    <div class="no-mobile">
+      <span>화면 크기를 줄여주세요.</span>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/43e594d4c5.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
