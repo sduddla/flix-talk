@@ -1,0 +1,78 @@
+.welcome-header {
+  margin: 150px 0px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welcome-header_title {
+  font-family: Bebas Neue;
+  margin-bottom: 45px;
+}
+
+.welcome-header_title_flix {
+  font-size: 40px;
+  margin-right: 5px;
+  color: var(--red);
+}
+
+.welcome-header_title_talk {
+  font-size: 40px;
+  color: var(--orange);
+}
+
+.welcome-header_title_text {
+  font-size: 25px;
+}
+
+.welcome-header_title_text2 {
+  display: block;
+  padding-top: 10px;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+#login-form {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 20px;
+}
+
+/* input의 1번째, 2번째 자식 선택*/
+#login-form input:not(:nth-child(3)) {
+  background-color: var(--black);
+  border: none;
+  padding: 15px 0px;
+  font-size: 14px;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 30px;
+  transition: border-color 0.3s ease-in-out;
+}
+
+#login-form input::placeholder {
+  opacity: 0.5;
+}
+
+#login-form input[type='submit'] {
+  background-color: var(--black);
+  border: none;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 15px 0px;
+  margin-bottom: 25px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#login-form input:focus {
+  border-color: var(--red);
+}
+
+#login-form a {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+}
