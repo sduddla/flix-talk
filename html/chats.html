@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chats</title>
+  </head>
+  <body>
+    <!-- 상단 -->
+    <header class="screen-header">
+      <h1 class="screen-header_title">채팅</h1>
+      <div class="screen-header_icons">
+        <span><i class="fa-solid fa-magnifying-glass"></i></span>
+        <span><i class="fa-solid fa-music"></i></span>
+      </div>
+    </header>
+
+    <!-- 채팅 목록 -->
+    <main class="main-screen">
+      <!-- 미스터션샤인 채팅방 -->
+      <a href="chat1.html">
+        <div class="user-component">
+          <div class="user-component_column">
+            <img
+              src="../images/mr-sunshine-poster.png"
+              alt="미스터션샤인 포스터"
+              class="user-component_photo"
+            />
+            <div class="user-component_text">
+              <h4 class="user-component_title">미스터션샤인</h4>
+              <h6 class="user-component_subtitle">
+                다양한 사건들을 그린 이야기입니다.
+              </h6>
+            </div>
+          </div>
+          <div class="user-component_column">
+            <span class="user-component_time">07:10</span>
+            <div class="badge">1</div>
+          </div>
+        </div>
+      </a>
+
+      <!-- 악마는 프라다를 입는다 채팅방 -->
+      <a href="chat2.html">
+        <div class="user-component">
+          <div class="user-component_column">
+            <img
+              src="../images/the-devil-wears-prada.png"
+              alt="악마는 프라다를 입는다 포스터"
+              class="user-component_photo"
+            />
+            <div class="user-component_text">
+              <h4 class="user-component_title">악마는 프라다를 입는다</h4>
+              <h6 class="user-component_subtitle">
+                크리스티안 톰슨(Christian Thompson)입니다.
+              </h6>
+            </div>
+          </div>
+          <div class="user-component_column">
+            <span class="user-component_time">10:11</span>
+            <div class="badge">1</div>
+          </div>
+        </div>
+      </a>
+    </main>
+
+    <!-- 하단 -->
+    <nav class="nav">
+      <ul class="nav_list">
+        <li class="nav_btn">
+          <a class="nav_link" href="programs.html">
+            <i class="fa-regular fa-user fa-lg"></i>
+          </a>
+        </li>
+
+        <li class="nav_btn">
+          <a class="nav_link" href="chats.html">
+            <span class="nav_notification badge">2</span>
+            <i class="fa-regular fa-comment fa-lg"></i>
+          </a>
+        </li>
+
+        <li class="nav_btn">
+          <a class="nav_link" href="find.html">
+            <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+          </a>
+        </li>
+
+        <li class="nav_btn">
+          <a class="nav_link" href="more.html">
+            <span class="nav_dot"></span>
+            <i class="fa-solid fa-ellipsis fa-lg"></i>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- 웹으로 볼 시, 스크린 사이즈 크다고 경고 메세지 -->
+    <div class="no-mobile">
+      <span>화면 크기를 줄여주세요.</span>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/43e594d4c5.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
