@@ -43,7 +43,8 @@
 
 | 1:1 Chat Room | Find | More | Window Size |
 | :-----------: | :--: | :--: | :---------: |
-| <img width="200" height="350" alt="chat-room" src="https://github.com/user-attachments/assets/341ce28e-61d9-4058-a79d-852b953cd194" /> | <img width="200" height="350" alt="find" src="https://github.com/user-attachments/assets/6cbf14bf-f60f-4252-aa3c-2c64faddfc8d" /> | <img width="200" height="350" alt="more" src="https://github.com/user-attachments/assets/bd1c66c3-b2d7-4cdd-9ad7-7f02f8e3626f" /> | <img width="200" height= "350" alt="window-size" src="https://github.com/user-attachments/assets/20b82286-204d-45a7-8d7f-43d3a10d676f" /> |
+| <img width="200" height="350" alt="chat-room" src="https://github.com/user-attachments/assets/341ce28e-61d9-4058-a79d-852b953cd194" /> | <img width="200" height="350" alt="find" src="https://github.com/user-attachments/assets/6cbf14bf-f60f-4252-aa3c-2c64faddfc8d" /> | <img width="200" height="350" alt="more" src="https://github.com/user-attachments/assets/bd1c66c3-b2d7-4cdd-9ad7-7f02f8e3626f" /> | <img width="200" height="350" alt="window" src="https://github.com/user-attachments/assets/7cd03a00-b92b-4c6d-9948-d73ad579483a" />
+
 
 <br>
 
