@@ -37,13 +37,13 @@
 ## 코드 구현
 | Splash Screen | Login | Programs | Chats |
 | :-----------: | :---: | :------: | :---: |
-| <img width="250" height="350" alt="splash-screen" src="https://github.com/user-attachments/assets/468e4100-f9bb-4df9-9457-4e487c098c0d" /> | <img width="250" height="350" alt="login" src="https://github.com/user-attachments/assets/9fe151fa-eedf-43e0-b30d-fc971fba5a7f" /> | <img width="250" height="350" alt="programs" src="https://github.com/user-attachments/assets/f0ff49e0-f0cc-4682-aaf2-1bbc6f9dbe1a" /> | <img width="250" height="350" alt="chats" src="https://github.com/user-attachments/assets/df6cadc3-396f-48fa-9b41-f96538ece7e2" /> 
+| <img width="200" height="350" alt="splash-screen" src="https://github.com/user-attachments/assets/468e4100-f9bb-4df9-9457-4e487c098c0d" /> | <img width="200" height="350" alt="login" src="https://github.com/user-attachments/assets/9fe151fa-eedf-43e0-b30d-fc971fba5a7f" /> | <img width="200" height="350" alt="programs" src="https://github.com/user-attachments/assets/f0ff49e0-f0cc-4682-aaf2-1bbc6f9dbe1a" /> | <img width="200" height="350" alt="chats" src="https://github.com/user-attachments/assets/df6cadc3-396f-48fa-9b41-f96538ece7e2" /> 
 
 
 
 | 1:1 Chat Room | Find | More | Window Size |
 | :-----------: | :--: | :--: | :---------: |
-| <img width="250" height="350" alt="chat-room" src="https://github.com/user-attachments/assets/341ce28e-61d9-4058-a79d-852b953cd194" /> | <img width="250" height="350" alt="find" src="https://github.com/user-attachments/assets/6cbf14bf-f60f-4252-aa3c-2c64faddfc8d" /> | <img width="250" height="350" alt="more" src="https://github.com/user-attachments/assets/bd1c66c3-b2d7-4cdd-9ad7-7f02f8e3626f" /> | <img width="250" height= "350" alt="window-size" src="https://github.com/user-attachments/assets/20b82286-204d-45a7-8d7f-43d3a10d676f" /> |
+| <img width="200" height="350" alt="chat-room" src="https://github.com/user-attachments/assets/341ce28e-61d9-4058-a79d-852b953cd194" /> | <img width="200" height="350" alt="find" src="https://github.com/user-attachments/assets/6cbf14bf-f60f-4252-aa3c-2c64faddfc8d" /> | <img width="200" height="350" alt="more" src="https://github.com/user-attachments/assets/bd1c66c3-b2d7-4cdd-9ad7-7f02f8e3626f" /> | <img width="200" height= "350" alt="window-size" src="https://github.com/user-attachments/assets/20b82286-204d-45a7-8d7f-43d3a10d676f" /> |
 
 <br>
 
