@@ -30,7 +30,8 @@
 <br>
 
 ## UI
-<img width="1260" alt="ui" src="https://github.com/user-attachments/assets/fa462ca6-bfc1-4ce3-ba15-edef2ccfb38b" />
+<img width="1260" alt="ui" src="https://github.com/user-attachments/assets/d406472f-8214-415b-b803-4cdc1b7cd758" />
+
 
 <br>
 
