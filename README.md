@@ -29,6 +29,10 @@
 
 <br>
 
+## UI
+<img width="1260" alt="ui" src="https://github.com/user-attachments/assets/fa462ca6-bfc1-4ce3-ba15-edef2ccfb38b" />
+
+
 ## 이미지 정보(Image Info)
 - 드라마 포스터: Figma에서 배경색과 텍스트를 활용하여 간단히 제작
 - 스플래시 화면 로고: Figma에서 직접 제작하여 활용
