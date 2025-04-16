@@ -37,7 +37,7 @@
 ## 코드 구현
 | Splash Screen | Login | Programs | Chats |
 | :-----------: | :---: | :------: | :---: |
-| <img width="220" height="340" alt="splash-screen" src="https://github.com/user-attachments/assets/468e4100-f9bb-4df9-9457-4e487c098c0d" /> | <img width="220" height="340" alt="login" src="https://github.com/user-attachments/assets/9fe151fa-eedf-43e0-b30d-fc971fba5a7f" /> | <img width="220" height="350" alt="programs" src="https://github.com/user-attachments/assets/f0ff49e0-f0cc-4682-aaf2-1bbc6f9dbe1a" /> | <img width="220" height="340" alt="chats" src="https://github.com/user-attachments/assets/df6cadc3-396f-48fa-9b41-f96538ece7e2" /> 
+| <img width="220" height="340" alt="splash-screen" src="https://github.com/user-attachments/assets/468e4100-f9bb-4df9-9457-4e487c098c0d" /> | <img width="220" height="340" alt="login" src="https://github.com/user-attachments/assets/9fe151fa-eedf-43e0-b30d-fc971fba5a7f" /> | <img width="220" height="340" alt="programs" src="https://github.com/user-attachments/assets/f0ff49e0-f0cc-4682-aaf2-1bbc6f9dbe1a" /> | <img width="220" height="340" alt="chats" src="https://github.com/user-attachments/assets/df6cadc3-396f-48fa-9b41-f96538ece7e2" /> 
 
 | 1:1 Chat Room | Find | More | Window Size |
 | :-----------: | :--: | :--: | :---------: |
